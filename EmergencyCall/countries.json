@@ -1,0 +1,1965 @@
+{
+  "version": 3,
+  "countries": [
+    {
+      "code": "AF",
+      "name": "Afghanistan", 
+      "emergency_number": "",
+      "police_number": "119",
+      "ambulance_number": "112",
+      "fire_department_number": "119"
+    },
+    {
+      "code": "AX",
+      "name": "Åland Islands", 
+      "emergency_number": null,
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "AL",
+      "name": "Albania", 
+      "emergency_number": "",
+      "police_number": "129",
+      "ambulance_number": "127",
+      "fire_department_number": "128"
+    },
+    {
+      "code": "DZ",
+      "name": "Algeria", 
+      "emergency_number": "",
+      "police_number": "1548",
+      "ambulance_number": "14",
+      "fire_department_number": "14"
+    },
+    {
+      "code": "AS",
+      "name": "American Samoa", 
+      "emergency_number": null,
+      "police_number": "911",
+      "ambulance_number": "911",
+      "fire_department_number": "911"
+    },
+    {
+      "code": "AD",
+      "name": "Andorra", 
+      "emergency_number": null,
+      "police_number": "110",
+      "ambulance_number": "116",
+      "fire_department_number": "118"
+    },
+    {
+      "code": "AO",
+      "name": "Angola", 
+      "emergency_number": "",
+      "police_number": "113",
+      "ambulance_number": "112",
+      "fire_department_number": "115"
+    },
+    {
+      "code": "AI",
+      "name": "Anguilla", 
+      "emergency_number": null,
+      "police_number": "911",
+      "ambulance_number": "911",
+      "fire_department_number": "911"
+    },
+    {
+      "code": "AQ",
+      "name": "Antarctica", 
+      "emergency_number": null,
+      "police_number": "911",
+      "ambulance_number": "911",
+      "fire_department_number": "911"
+    },
+    {
+      "code": "AG",
+      "name": "Antigua and Barbuda", 
+      "emergency_number": null,
+      "police_number": "911",
+      "ambulance_number": "911",
+      "fire_department_number": "911"
+    },
+    {
+      "code": "AR",
+      "name": "Argentina", 
+      "emergency_number": "911",
+      "police_number": "101",
+      "ambulance_number": "107",
+      "fire_department_number": "100"
+    },
+    {
+      "code": "AM",
+      "name": "Armenia", 
+      "emergency_number": "112",
+      "police_number": "102",
+      "ambulance_number": "103",
+      "fire_department_number": "101"
+    },
+    {
+      "code": "AW",
+      "name": "Aruba", 
+      "emergency_number": null,
+      "police_number": "911",
+      "ambulance_number": "911",
+      "fire_department_number": "911"
+    },
+    {
+      "code": "SH-AC",
+      "name": "Ascension Island", 
+      "emergency_number": null,
+      "police_number": "999",
+      "ambulance_number": "999",
+      "fire_department_number": "999"
+    },
+    {
+      "code": "AU",
+      "name": "Australia", 
+      "emergency_number": null,
+      "police_number": "000",
+      "ambulance_number": "000",
+      "fire_department_number": "000"
+    },
+    {
+      "code": "AT",
+      "name": "Austria", 
+      "emergency_number": "112",
+      "police_number": "113",
+      "ambulance_number": "144",
+      "fire_department_number": "122"
+    },
+    {
+      "code": "AZ",
+      "name": "Azerbaijan", 
+      "emergency_number": "112",
+      "police_number": "102",
+      "ambulance_number": "103",
+      "fire_department_number": "101"
+    },
+    {
+      "code": "BS",
+      "name": "The Bahamas", 
+      "emergency_number": "911",
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "BH",
+      "name": "Bahrain", 
+      "emergency_number": "999",
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "BD",
+      "name": "Bangladesh", 
+      "emergency_number": "",
+      "police_number": "999",
+      "ambulance_number": "999",
+      "fire_department_number": "999"
+    },
+    {
+      "code": "BB",
+      "name": "Barbados", 
+      "emergency_number": "",
+      "police_number": "211",
+      "ambulance_number": "511",
+      "fire_department_number": "311"
+    },
+    {
+      "code": "BY",
+      "name": "Belarus", 
+      "emergency_number": "",
+      "police_number": "102",
+      "ambulance_number": "103",
+      "fire_department_number": "101"
+    },
+    {
+      "code": "BE",
+      "name": "Belgium", 
+      "emergency_number": "112",
+      "police_number": "101",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "BZ",
+      "name": "Belize", 
+      "emergency_number": null,
+      "police_number": "911",
+      "ambulance_number": "911",
+      "fire_department_number": "911"
+    },
+    {
+      "code": "BJ",
+      "name": "Benin", 
+      "emergency_number": "",
+      "police_number": "117",
+      "ambulance_number": "112",
+      "fire_department_number": "118"
+    },
+    {
+      "code": "BM",
+      "name": "Bermuda", 
+      "emergency_number": null,
+      "police_number": "911",
+      "ambulance_number": "911",
+      "fire_department_number": "911"
+    },
+    {
+      "code": "BT",
+      "name": "Bhutan", 
+      "emergency_number": "",
+      "police_number": "113",
+      "ambulance_number": "112",
+      "fire_department_number": "110"
+    },
+    {
+      "code": "BO",
+      "name": "Bolivia", 
+      "emergency_number": "911",
+      "police_number": "110",
+      "ambulance_number": "118",
+      "fire_department_number": "119"
+    },
+    {
+      "code": "BQ",
+      "name": "Caribbean Netherlands", 
+      "emergency_number": null,
+      "police_number": "911",
+      "ambulance_number": "911",
+      "fire_department_number": "911"
+    },
+    {
+      "code": "BA",
+      "name": "Bosnia and Herzegovina", 
+      "emergency_number": "",
+      "police_number": "122",
+      "ambulance_number": "124",
+      "fire_department_number": "123"
+    },
+    {
+      "code": "BW",
+      "name": "Botswana", 
+      "emergency_number": null,
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "BR",
+      "name": "Brazil", 
+      "emergency_number": "",
+      "police_number": "190",
+      "ambulance_number": "192",
+      "fire_department_number": "193"
+    },
+    {
+      "code": "BN",
+      "name": "Brunei", 
+      "emergency_number": "",
+      "police_number": "993",
+      "ambulance_number": "991",
+      "fire_department_number": "995"
+    },
+    {
+      "code": "BG",
+      "name": "Bulgaria", 
+      "emergency_number": "112",
+      "police_number": "166",
+      "ambulance_number": "150",
+      "fire_department_number": "160"
+    },
+    {
+      "code": "BF",
+      "name": "Burkina Faso", 
+      "emergency_number": "",
+      "police_number": "17",
+      "ambulance_number": "112",
+      "fire_department_number": "18"
+    },
+    {
+      "code": "BI",
+      "name": "Burundi", 
+      "emergency_number": "",
+      "police_number": "117",
+      "ambulance_number": "112",
+      "fire_department_number": "118"
+    },
+    {
+      "code": "KH",
+      "name": "Cambodia", 
+      "emergency_number": "",
+      "police_number": "117",
+      "ambulance_number": "119",
+      "fire_department_number": "118"
+    },
+    {
+      "code": "CM",
+      "name": "Cameroon", 
+      "emergency_number": "112",
+      "police_number": "117",
+      "ambulance_number": "119",
+      "fire_department_number": "118"
+    },
+    {
+      "code": "CA",
+      "name": "Canada", 
+      "emergency_number": null,
+      "police_number": "911",
+      "ambulance_number": "911",
+      "fire_department_number": "911"
+    },
+    {
+      "code": "CV",
+      "name": "Cape Verde", 
+      "emergency_number": "",
+      "police_number": "132",
+      "ambulance_number": "130",
+      "fire_department_number": "131"
+    },
+    {
+      "code": "KY",
+      "name": "Cayman Islands", 
+      "emergency_number": null,
+      "police_number": "911",
+      "ambulance_number": "911",
+      "fire_department_number": "911"
+    },
+    {
+      "code": "CF",
+      "name": "Central African Republic", 
+      "emergency_number": "",
+      "police_number": "117",
+      "ambulance_number": "1220",
+      "fire_department_number": "118"
+    },
+    {
+      "code": "TD",
+      "name": "Chad", 
+      "emergency_number": "",
+      "police_number": "17",
+      "ambulance_number": "2251-4242",
+      "fire_department_number": "18"
+    },
+    {
+      "code": "CL",
+      "name": "Chile", 
+      "emergency_number": "",
+      "police_number": "133",
+      "ambulance_number": "131",
+      "fire_department_number": "132"
+    },
+    {
+      "code": "CN",
+      "name": "China", 
+      "emergency_number": "",
+      "police_number": "110",
+      "ambulance_number": "120",
+      "fire_department_number": "119"
+    },
+    {
+      "code": "CX",
+      "name": "Christmas Island", 
+      "emergency_number": null,
+      "police_number": "000",
+      "ambulance_number": "000",
+      "fire_department_number": "000"
+    },
+    {
+      "code": "CC",
+      "name": "Cocos (Keeling) Islands", 
+      "emergency_number": null,
+      "police_number": "000",
+      "ambulance_number": "000",
+      "fire_department_number": "000"
+    },
+    {
+      "code": "CO",
+      "name": "Colombia", 
+      "emergency_number": "123",
+      "police_number": "112",
+      "ambulance_number": "125",
+      "fire_department_number": "119"
+    },
+    {
+      "code": "KM",
+      "name": "Comoros", 
+      "emergency_number": "",
+      "police_number": "17",
+      "ambulance_number": "772-03-73",
+      "fire_department_number": "18"
+    },
+    {
+      "code": "CG",
+      "name": "Congo Republic", 
+      "emergency_number": "",
+      "police_number": "117",
+      "ambulance_number": "",
+      "fire_department_number": "118"
+    },
+    {
+      "code": "CK",
+      "name": "Cook Islands", 
+      "emergency_number": "",
+      "police_number": "999",
+      "ambulance_number": "999",
+      "fire_department_number": "999"
+    },
+    {
+      "code": "CR",
+      "name": "Costa Rica", 
+      "emergency_number": "911",
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "CI",
+      "name": "Côte d'Ivoire", 
+      "emergency_number": "",
+      "police_number": "110",
+      "ambulance_number": "185",
+      "fire_department_number": "180"
+    },
+    {
+      "code": "HR",
+      "name": "Croatia", 
+      "emergency_number": "112",
+      "police_number": "192",
+      "ambulance_number": "194",
+      "fire_department_number": "193"
+    },
+    {
+      "code": "CU",
+      "name": "Cuba", 
+      "emergency_number": "",
+      "police_number": "106",
+      "ambulance_number": "104",
+      "fire_department_number": "105"
+    },
+    {
+      "code": "CW",
+      "name": "Curaçao", 
+      "emergency_number": "",
+      "police_number": "911",
+      "ambulance_number": "912",
+      "fire_department_number": "911"
+    },
+    {
+      "code": "CY",
+      "name": "Cyprus", 
+      "emergency_number": null,
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "CZ",
+      "name": "Czech Republic", 
+      "emergency_number": "112",
+      "police_number": "158",
+      "ambulance_number": "155",
+      "fire_department_number": "150"
+    },
+    {
+      "code": "CD",
+      "name": "Democratic Republic of Congo", 
+      "emergency_number": "",
+      "police_number": "112",
+      "ambulance_number": "",
+      "fire_department_number": "118"
+    },
+    {
+      "code": "DK",
+      "name": "Denmark", 
+      "emergency_number": null,
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "DJ",
+      "name": "Djibouti", 
+      "emergency_number": "",
+      "police_number": "17",
+      "ambulance_number": "19",
+      "fire_department_number": "18"
+    },
+    {
+      "code": "DM",
+      "name": "Dominica", 
+      "emergency_number": null,
+      "police_number": "999",
+      "ambulance_number": "999",
+      "fire_department_number": "999"
+    },
+    {
+      "code": "DO",
+      "name": "Dominican Republic", 
+      "emergency_number": "112",
+      "police_number": "911",
+      "ambulance_number": "911",
+      "fire_department_number": "911"
+    },
+    {
+      "code": "TL",
+      "name": "East Timor", 
+      "emergency_number": null,
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "EC",
+      "name": "Ecuador", 
+      "emergency_number": "911",
+      "police_number": "101",
+      "ambulance_number": "131",
+      "fire_department_number": "102"
+    },
+    {
+      "code": "EG",
+      "name": "Egypt", 
+      "emergency_number": "",
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "SV",
+      "name": "El Salvador", 
+      "emergency_number": null,
+      "police_number": "911",
+      "ambulance_number": "132",
+      "fire_department_number": "913"
+    },
+    {
+      "code": "GQ",
+      "name": "Equatorial Guinea", 
+      "emergency_number": "",
+      "police_number": "114",
+      "ambulance_number": "115",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "ER",
+      "name": "Eritrea", 
+      "emergency_number": "",
+      "police_number": "113",
+      "ambulance_number": "114",
+      "fire_department_number": "116"
+    },
+    {
+      "code": "EE",
+      "name": "Estonia", 
+      "emergency_number": null,
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "SZ",
+      "name": "Eswatini (Swaziland)", 
+      "emergency_number": "",
+      "police_number": "999",
+      "ambulance_number": "977",
+      "fire_department_number": "933"
+    },
+    {
+      "code": "ET",
+      "name": "Ethiopia", 
+      "emergency_number": "911",
+      "police_number": "991",
+      "ambulance_number": "907",
+      "fire_department_number": "939"
+    },
+    {
+      "code": "FK",
+      "name": "Falkland Islands (Malvinas)", 
+      "emergency_number": null,
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "FO",
+      "name": "Faroe Islands", 
+      "emergency_number": null,
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "FJ",
+      "name": "Fiji", 
+      "emergency_number": "911",
+      "police_number": "917",
+      "ambulance_number": "911",
+      "fire_department_number": "910"
+    },
+    {
+      "code": "FI",
+      "name": "Finland", 
+      "emergency_number": null,
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "FR",
+      "name": "France", 
+      "emergency_number": "112",
+      "police_number": "17",
+      "ambulance_number": "15",
+      "fire_department_number": "18"
+    },
+    {
+      "code": "GF",
+      "name": "French Guiana", 
+      "emergency_number": "112",
+      "police_number": "17",
+      "ambulance_number": "15",
+      "fire_department_number": "18"
+    },
+    {
+      "code": "PF",
+      "name": "French Polynesia", 
+      "emergency_number": "112",
+      "police_number": "17",
+      "ambulance_number": "15",
+      "fire_department_number": "18"
+    },
+    {
+      "code": "GA",
+      "name": "Gabon", 
+      "emergency_number": "",
+      "police_number": "1730",
+      "ambulance_number": "1300",
+      "fire_department_number": "18"
+    },
+    {
+      "code": "GA",
+      "name": "Gambia", 
+      "emergency_number": "",
+      "police_number": "117",
+      "ambulance_number": "116",
+      "fire_department_number": "118"
+    },
+    {
+      "code": "GE",
+      "name": "Georgia", 
+      "emergency_number": null,
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "DE",
+      "name": "Germany", 
+      "emergency_number": "112",
+      "police_number": "110",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "GH",
+      "name": "Ghana", 
+      "emergency_number": "112",
+      "police_number": "191",
+      "ambulance_number": "193",
+      "fire_department_number": "192"
+    },
+    {
+      "code": "GI",
+      "name": "Gibraltar", 
+      "emergency_number": null,
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "GR",
+      "name": "Greece", 
+      "emergency_number": "112",
+      "police_number": "100",
+      "ambulance_number": "166",
+      "fire_department_number": "199"
+    },
+    {
+      "code": "GL",
+      "name": "Greenland", 
+      "emergency_number": null,
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "GD",
+      "name": "Grenada", 
+      "emergency_number": null,
+      "police_number": "911",
+      "ambulance_number": "911",
+      "fire_department_number": "911"
+    },
+    {
+      "code": "GP",
+      "name": "Guadeloupe", 
+      "emergency_number": "112",
+      "police_number": "17",
+      "ambulance_number": "15",
+      "fire_department_number": "18"
+    },
+    {
+      "code": "GU",
+      "name": "Guam", 
+      "emergency_number": null,
+      "police_number": "911",
+      "ambulance_number": "911",
+      "fire_department_number": "911"
+    },
+    {
+      "code": "GT",
+      "name": "Guatemala", 
+      "emergency_number": "",
+      "police_number": "110",
+      "ambulance_number": "128",
+      "fire_department_number": "122"
+    },
+    {
+      "code": "GG",
+      "name": "Guernsey", 
+      "emergency_number": null,
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "GN",
+      "name": "Guinea", 
+      "emergency_number": "",
+      "police_number": "117",
+      "ambulance_number": "18",
+      "fire_department_number": "442-020"
+    },
+    {
+      "code": "GW",
+      "name": "Guinea-Bissau", 
+      "emergency_number": "112",
+      "police_number": "117",
+      "ambulance_number": "119",
+      "fire_department_number": "118"
+    },
+    {
+      "code": "GY",
+      "name": "Guyana", 
+      "emergency_number": null,
+      "police_number": "911",
+      "ambulance_number": "913",
+      "fire_department_number": "912"
+    },
+    {
+      "code": "HT",
+      "name": "Haiti", 
+      "emergency_number": null,
+      "police_number": "114",
+      "ambulance_number": "116",
+      "fire_department_number": "115"
+    },
+    {
+      "code": "HN",
+      "name": "Honduras", 
+      "emergency_number": null,
+      "police_number": "199",
+      "ambulance_number": "195",
+      "fire_department_number": "198"
+    },
+    {
+      "code": "HK",
+      "name": "Hong Kong", 
+      "emergency_number": "999",
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "HU",
+      "name": "Hungary", 
+      "emergency_number": "112",
+      "police_number": "107",
+      "ambulance_number": "104",
+      "fire_department_number": "105"
+    },
+    {
+      "code": "IS",
+      "name": "Iceland", 
+      "emergency_number": null,
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "IN",
+      "name": "India", 
+      "emergency_number": "112",
+      "police_number": "100",
+      "ambulance_number": "108",
+      "fire_department_number": "101"
+    },
+    {
+      "code": "ID",
+      "name": "Indonesia", 
+      "emergency_number": "112",
+      "police_number": "110",
+      "ambulance_number": "118",
+      "fire_department_number": "113"
+    },
+    {
+      "code": "IR",
+      "name": "Iran", 
+      "emergency_number": "112",
+      "police_number": "110",
+      "ambulance_number": "115",
+      "fire_department_number": "125"
+    },
+    {
+      "code": "IQ",
+      "name": "Iraq", 
+      "emergency_number": "112",
+      "police_number": "104",
+      "ambulance_number": "122",
+      "fire_department_number": "115"
+    },
+    {
+      "code": "IE",
+      "name": "Ireland", 
+      "emergency_number": null,
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "IM",
+      "name": "Isle of Man", 
+      "emergency_number": null,
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "IL",
+      "name": "Israel", 
+      "emergency_number": "112",
+      "police_number": "100",
+      "ambulance_number": "101",
+      "fire_department_number": "102"
+    },
+    {
+      "code": "IT",
+      "name": "Italy", 
+      "emergency_number": "",
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "JM",
+      "name": "Jamaica", 
+      "emergency_number": "",
+      "police_number": "119",
+      "ambulance_number": "110",
+      "fire_department_number": "110"
+    },
+    {
+      "code": "JP",
+      "name": "Japan", 
+      "emergency_number": "112",
+      "police_number": "110",
+      "ambulance_number": "119",
+      "fire_department_number": "119"
+    },
+    {
+      "code": "JE",
+      "name": "Jersey", 
+      "emergency_number": null,
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "JO",
+      "name": "Jordan", 
+      "emergency_number": "911",
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "KZ",
+      "name": "Kazakhstan", 
+      "emergency_number": "112",
+      "police_number": "102",
+      "ambulance_number": "103",
+      "fire_department_number": "101"
+    },
+    {
+      "code": "KE",
+      "name": "Kenya", 
+      "emergency_number": null,
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "KI",
+      "name": "Kiribati", 
+      "emergency_number": "999",
+      "police_number": "192",
+      "ambulance_number": "194",
+      "fire_department_number": "193"
+    },
+    {
+      "code": "KW",
+      "name": "Kuwait", 
+      "emergency_number": null,
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "KG",
+      "name": "Kyrgyzstan", 
+      "emergency_number": "",
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "LA",
+      "name": "Laos", 
+      "emergency_number": "",
+      "police_number": "191",
+      "ambulance_number": "195",
+      "fire_department_number": "190"
+    },
+    {
+      "code": "LV",
+      "name": "Latvia", 
+      "emergency_number": "112",
+      "police_number": "110",
+      "ambulance_number": "113",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "LB",
+      "name": "Lebanon", 
+      "emergency_number": "112",
+      "police_number": "160",
+      "ambulance_number": "140",
+      "fire_department_number": "175"
+    },
+    {
+      "code": "LS",
+      "name": "Lesotho", 
+      "emergency_number": "",
+      "police_number": "123",
+      "ambulance_number": "121",
+      "fire_department_number": "122"
+    },
+    {
+      "code": "LR",
+      "name": "Liberia", 
+      "emergency_number": null,
+      "police_number": "911",
+      "ambulance_number": "911",
+      "fire_department_number": "911"
+    },
+    {
+      "code": "LY",
+      "name": "Libya", 
+      "emergency_number": null,
+      "police_number": "1515",
+      "ambulance_number": "193",
+      "fire_department_number": "1515"
+    },
+    {
+      "code": "LI",
+      "name": "Liechtenstein", 
+      "emergency_number": null,
+      "police_number": "117",
+      "ambulance_number": "144",
+      "fire_department_number": "118"
+    },
+    {
+      "code": "LT",
+      "name": "Lithuania", 
+      "emergency_number": null,
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "LU",
+      "name": "Luxembourg", 
+      "emergency_number": "112",
+      "police_number": "113",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "MO",
+      "name": "Macao", 
+      "emergency_number": null,
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "MG",
+      "name": "Madagascar", 
+      "emergency_number": "",
+      "police_number": "117",
+      "ambulance_number": "124",
+      "fire_department_number": "118"
+    },
+    {
+      "code": "MW",
+      "name": "Malawi", 
+      "emergency_number": "",
+      "police_number": "997",
+      "ambulance_number": "998",
+      "fire_department_number": "999"
+    },
+    {
+      "code": "MY",
+      "name": "Malaysia", 
+      "emergency_number": "999",
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "MV",
+      "name": "Maldives", 
+      "emergency_number": "911",
+      "police_number": "119",
+      "ambulance_number": "100",
+      "fire_department_number": "118"
+    },
+    {
+      "code": "ML",
+      "name": "Mali", 
+      "emergency_number": "",
+      "police_number": "17",
+      "ambulance_number": "15",
+      "fire_department_number": "18"
+    },
+    {
+      "code": "MT",
+      "name": "Malta", 
+      "emergency_number": null,
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "MH",
+      "name": "Marshall Islands", 
+      "emergency_number": null,
+      "police_number": "911",
+      "ambulance_number": "911",
+      "fire_department_number": "911"
+    },
+    {
+      "code": "MQ",
+      "name": "Martinique", 
+      "emergency_number": "112",
+      "police_number": "17",
+      "ambulance_number": "15",
+      "fire_department_number": "18"
+    },
+    {
+      "code": "MR",
+      "name": "Mauritania", 
+      "emergency_number": "",
+      "police_number": "117",
+      "ambulance_number": "101",
+      "fire_department_number": "118"
+    },
+    {
+      "code": "MU",
+      "name": "Mauritius", 
+      "emergency_number": null,
+      "police_number": "112",
+      "ambulance_number": "114",
+      "fire_department_number": "115"
+    },
+    {
+      "code": "YT",
+      "name": "Mayotte", 
+      "emergency_number": "112",
+      "police_number": "17",
+      "ambulance_number": "15",
+      "fire_department_number": "18"
+    },
+    {
+      "code": "MX",
+      "name": "Mexico", 
+      "emergency_number": null,
+      "police_number": "911",
+      "ambulance_number": "911",
+      "fire_department_number": "911"
+    },
+    {
+      "code": "FM",
+      "name": "Micronesia, Federated States of", 
+      "emergency_number": null,
+      "police_number": "911",
+      "ambulance_number": "911",
+      "fire_department_number": "911"
+    },
+    {
+      "code": "MD",
+      "name": "Moldova", 
+      "emergency_number": null,
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "MC",
+      "name": "Monaco", 
+      "emergency_number": "112",
+      "police_number": "17",
+      "ambulance_number": "18",
+      "fire_department_number": "18"
+    },
+    {
+      "code": "MN",
+      "name": "Mongolia", 
+      "emergency_number": "105",
+      "police_number": "102",
+      "ambulance_number": "103",
+      "fire_department_number": "101"
+    },
+    {
+      "code": "ME",
+      "name": "Montenegro", 
+      "emergency_number": "112",
+      "police_number": "122",
+      "ambulance_number": "124",
+      "fire_department_number": "123"
+    },
+    {
+      "code": "MS",
+      "name": "Montserrat", 
+      "emergency_number": null,
+      "police_number": "911",
+      "ambulance_number": "911",
+      "fire_department_number": "911"
+    },
+    {
+      "code": "MA",
+      "name": "Morocco", 
+      "emergency_number": "112",
+      "police_number": "19",
+      "ambulance_number": "15",
+      "fire_department_number": "15"
+    },
+    {
+      "code": "MZ",
+      "name": "Mozambique", 
+      "emergency_number": "",
+      "police_number": "119",
+      "ambulance_number": "117",
+      "fire_department_number": "198"
+    },
+    {
+      "code": "MM",
+      "name": "Myanmar", 
+      "emergency_number": "999",
+      "police_number": "199",
+      "ambulance_number": "192",
+      "fire_department_number": "191"
+    },
+    {
+      "code": "MM",
+      "name": "Namibia", 
+      "emergency_number": "10111",
+      "police_number": "112",
+      "ambulance_number": "10177",
+      "fire_department_number": "998"
+    },
+    {
+      "code": "NR",
+      "name": "Nauru", 
+      "emergency_number": "",
+      "police_number": "110",
+      "ambulance_number": "111",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "NP",
+      "name": "Nepal", 
+      "emergency_number": "112",
+      "police_number": "100",
+      "ambulance_number": "102",
+      "fire_department_number": "101"
+    },
+    {
+      "code": "NL",
+      "name": "Netherlands", 
+      "emergency_number": null,
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "NC",
+      "name": "New Caledonia", 
+      "emergency_number": "112",
+      "police_number": "17",
+      "ambulance_number": "15",
+      "fire_department_number": "18"
+    },
+    {
+      "code": "NZ",
+      "name": "New Zealand", 
+      "emergency_number": null,
+      "police_number": "111",
+      "ambulance_number": "111",
+      "fire_department_number": "111"
+    },
+    {
+      "code": "NI",
+      "name": "Nicaragua", 
+      "emergency_number": null,
+      "police_number": "118",
+      "ambulance_number": "128",
+      "fire_department_number": "115"
+    },
+    {
+      "code": "NE",
+      "name": "Niger", 
+      "emergency_number": "",
+      "police_number": "17",
+      "ambulance_number": "15",
+      "fire_department_number": "18"
+    },
+    {
+      "code": "NG",
+      "name": "Nigeria", 
+      "emergency_number": null,
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "NU",
+      "name": "Niue", 
+      "emergency_number": null,
+      "police_number": "(+683) 4333",
+      "ambulance_number": "(+683) 4202",
+      "fire_department_number": "(+683) 4133"
+    },
+    {
+      "code": "NF",
+      "name": "Norfolk Island", 
+      "emergency_number": null,
+      "police_number": "000",
+      "ambulance_number": "000",
+      "fire_department_number": "000"
+    },
+    {
+      "code": "KP",
+      "name": "North Korea", 
+      "emergency_number": null,
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "110"
+    },
+    {
+      "code": "MK",
+      "name": "North Macedonia", 
+      "emergency_number": "112",
+      "police_number": "192",
+      "ambulance_number": "194",
+      "fire_department_number": "193"
+    },
+    {
+      "code": "MP",
+      "name": "Northern Mariana Islands", 
+      "emergency_number": null,
+      "police_number": "911",
+      "ambulance_number": "911",
+      "fire_department_number": "911"
+    },
+    {
+      "code": "NO",
+      "name": "Norway", 
+      "emergency_number": "",
+      "police_number": "112",
+      "ambulance_number": "113",
+      "fire_department_number": "110"
+    },
+    {
+      "code": "OM",
+      "name": "Oman", 
+      "emergency_number": "9999",
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "PK",
+      "name": "Pakistan", 
+      "emergency_number": "112",
+      "police_number": "15",
+      "ambulance_number": "115",
+      "fire_department_number": "16"
+    },
+    {
+      "code": "PW",
+      "name": "Palau", 
+      "emergency_number": null,
+      "police_number": "911",
+      "ambulance_number": "911",
+      "fire_department_number": "911"
+    },
+    {
+      "code": "PS",
+      "name": "Palestine, State of", 
+      "emergency_number": "",
+      "police_number": "100",
+      "ambulance_number": "101",
+      "fire_department_number": "102"
+    },
+    {
+      "code": "PA",
+      "name": "Panama", 
+      "emergency_number": null,
+      "police_number": "911",
+      "ambulance_number": "911",
+      "fire_department_number": "911"
+    },
+    {
+      "code": "PG",
+      "name": "Papua New Guinea", 
+      "emergency_number": null,
+      "police_number": "112",
+      "ambulance_number": "111",
+      "fire_department_number": "110"
+    },
+    {
+      "code": "PY",
+      "name": "Paraguay", 
+      "emergency_number": "911",
+      "police_number": "912",
+      "ambulance_number": "141",
+      "fire_department_number": "132"
+    },
+    {
+      "code": "PE",
+      "name": "Peru", 
+      "emergency_number": "911",
+      "police_number": "105",
+      "ambulance_number": "106",
+      "fire_department_number": "116"
+    },
+    {
+      "code": "PH",
+      "name": "Philippines", 
+      "emergency_number": "911",
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "PL",
+      "name": "Poland", 
+      "emergency_number": "112",
+      "police_number": "997",
+      "ambulance_number": "999",
+      "fire_department_number": "998"
+    },
+    {
+      "code": "PT",
+      "name": "Portugal", 
+      "emergency_number": null,
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "PR",
+      "name": "Puerto Rico", 
+      "emergency_number": null,
+      "police_number": "911",
+      "ambulance_number": "911",
+      "fire_department_number": "911"
+    },
+    {
+      "code": "QA",
+      "name": "Qatar", 
+      "emergency_number": "999",
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "RE",
+      "name": "Réunion", 
+      "emergency_number": "112",
+      "police_number": "17",
+      "ambulance_number": "15",
+      "fire_department_number": "18"
+    },
+    {
+      "code": "RO",
+      "name": "Romania", 
+      "emergency_number": null,
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "RU",
+      "name": "Russia", 
+      "emergency_number": "112",
+      "police_number": "102",
+      "ambulance_number": "103",
+      "fire_department_number": "101"
+    },
+    {
+      "code": "RW",
+      "name": "Rwanda", 
+      "emergency_number": null,
+      "police_number": "112",
+      "ambulance_number": "912",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "SH-HL",
+      "name": "Saint Helena", 
+      "emergency_number": "",
+      "police_number": "999",
+      "ambulance_number": "999",
+      "fire_department_number": "999"
+    },
+    {
+      "code": "KN",
+      "name": "Saint Kitts and Nevis", 
+      "emergency_number": "",
+      "police_number": "911",
+      "ambulance_number": "911",
+      "fire_department_number": "911"
+    },
+    {
+      "code": "LC",
+      "name": "Saint Lucia", 
+      "emergency_number": null,
+      "police_number": "911",
+      "ambulance_number": "911",
+      "fire_department_number": "911"
+    },
+    {
+      "code": "MF",
+      "name": "Saint Martin", 
+      "emergency_number": "",
+      "police_number": "911",
+      "ambulance_number": "912",
+      "fire_department_number": "919"
+    },
+    {
+      "code": "PM",
+      "name": "Saint Pierre and Miquelon", 
+      "emergency_number": "112",
+      "police_number": "17",
+      "ambulance_number": "15",
+      "fire_department_number": "18"
+    },
+    {
+      "code": "VC",
+      "name": "Saint Vincent and the Grenadines", 
+      "emergency_number": null,
+      "police_number": "999",
+      "ambulance_number": "999",
+      "fire_department_number": "999"
+    },
+    {
+      "code": "WS",
+      "name": "Samoa", 
+      "emergency_number": "999",
+      "police_number": "995",
+      "ambulance_number": "996",
+      "fire_department_number": "994"
+    },
+    {
+      "code": "SM",
+      "name": "San Marino", 
+      "emergency_number": "",
+      "police_number": "113",
+      "ambulance_number": "118",
+      "fire_department_number": "115"
+    },
+    {
+      "code": "ST",
+      "name": "São Tomé and Príncipe", 
+      "emergency_number": "",
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "SA",
+      "name": "Saudi Arabia", 
+      "emergency_number": "911",
+      "police_number": "999",
+      "ambulance_number": "997",
+      "fire_department_number": "998"
+    },
+    {
+      "code": "SN",
+      "name": "Senegal", 
+      "emergency_number": "",
+      "police_number": "17",
+      "ambulance_number": "18",
+      "fire_department_number": "1515"
+    },
+    {
+      "code": "RS",
+      "name": "Serbia", 
+      "emergency_number": "112",
+      "police_number": "192",
+      "ambulance_number": "194",
+      "fire_department_number": "193"
+    },
+    {
+      "code": "SC",
+      "name": "Seychelles", 
+      "emergency_number": "112",
+      "police_number": "133",
+      "ambulance_number": "151",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "SL",
+      "name": "Sierra Leone", 
+      "emergency_number": "",
+      "police_number": "019",
+      "ambulance_number": "999",
+      "fire_department_number": "999"
+    },
+    {
+      "code": "SG",
+      "name": "Singapore", 
+      "emergency_number": "112",
+      "police_number": "999",
+      "ambulance_number": "995",
+      "fire_department_number": "995"
+    },
+    {
+      "code": "SK",
+      "name": "Slovakia", 
+      "emergency_number": null,
+      "police_number": "158",
+      "ambulance_number": "155",
+      "fire_department_number": "150"
+    },
+    {
+      "code": "SI",
+      "name": "Slovenia", 
+      "emergency_number": "112",
+      "police_number": "113",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "SB",
+      "name": "Solomon Islands", 
+      "emergency_number": "911",
+      "police_number": "999",
+      "ambulance_number": "111",
+      "fire_department_number": "988"
+    },
+    {
+      "code": "SO",
+      "name": "Somalia", 
+      "emergency_number": "",
+      "police_number": "888",
+      "ambulance_number": "999",
+      "fire_department_number": "555"
+    },
+    {
+      "code": "ZA",
+      "name": "South Africa", 
+      "emergency_number": "112",
+      "police_number": "10111",
+      "ambulance_number": "10177",
+      "fire_department_number": "10177"
+    },
+    {
+      "code": "GS",
+      "name": "South Georgia and the South Sandwich Islands", 
+      "emergency_number": null,
+      "police_number": "999",
+      "ambulance_number": "999",
+      "fire_department_number": "999"
+    },
+    {
+      "code": "KR",
+      "name": "South Korea", 
+      "emergency_number": "",
+      "police_number": "112",
+      "ambulance_number": "119",
+      "fire_department_number": "119"
+    },
+    {
+      "code": "SS",
+      "name": "South Sudan", 
+      "emergency_number": null,
+      "police_number": "999",
+      "ambulance_number": "999",
+      "fire_department_number": "999"
+    },
+    {
+      "code": "ES",
+      "name": "Spain", 
+      "emergency_number": null,
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "LK",
+      "name": "Sri Lanka", 
+      "emergency_number": null,
+      "police_number": "119",
+      "ambulance_number": "110",
+      "fire_department_number": "113"
+    },
+    {
+      "code": "SD",
+      "name": "Sudan", 
+      "emergency_number": null,
+      "police_number": "999",
+      "ambulance_number": "999",
+      "fire_department_number": "999"
+    },
+    {
+      "code": "SR",
+      "name": "Suriname", 
+      "emergency_number": "115",
+      "police_number": "115",
+      "ambulance_number": "113",
+      "fire_department_number": "110"
+    },
+    {
+      "code": "SE",
+      "name": "Sweden", 
+      "emergency_number": null,
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "CH",
+      "name": "Switzerland", 
+      "emergency_number": null,
+      "police_number": "117",
+      "ambulance_number": "144",
+      "fire_department_number": "118"
+    },
+    {
+      "code": "SY",
+      "name": "Syria", 
+      "emergency_number": "",
+      "police_number": "112",
+      "ambulance_number": "110",
+      "fire_department_number": "113"
+    },
+    {
+      "code": "TW",
+      "name": "Taiwan", 
+      "emergency_number": "112",
+      "police_number": "110",
+      "ambulance_number": "119",
+      "fire_department_number": "119"
+    },
+    {
+      "code": "TJ",
+      "name": "Tajikistan", 
+      "emergency_number": "112",
+      "police_number": "102",
+      "ambulance_number": "103",
+      "fire_department_number": "101"
+    },
+    {
+      "code": "TZ",
+      "name": "Tanzania", 
+      "emergency_number": null,
+      "police_number": "112",
+      "ambulance_number": "114",
+      "fire_department_number": "115"
+    },
+    {
+      "code": "TH",
+      "name": "Thailand", 
+      "emergency_number": "",
+      "police_number": "191",
+      "ambulance_number": "1669",
+      "fire_department_number": "199"
+    },
+    {
+      "code": "TG",
+      "name": "Togo", 
+      "emergency_number": "",
+      "police_number": "117",
+      "ambulance_number": "8200",
+      "fire_department_number": "118"
+    },
+    {
+      "code": "TO",
+      "name": "Tonga", 
+      "emergency_number": "911",
+      "police_number": "922",
+      "ambulance_number": "933",
+      "fire_department_number": "999"
+    },
+    {
+      "code": "TT",
+      "name": "Trinidad and Tobago", 
+      "emergency_number": "",
+      "police_number": "999",
+      "ambulance_number": "811",
+      "fire_department_number": "990"
+    },
+    {
+      "code": "TN",
+      "name": "Tunisia", 
+      "emergency_number": "",
+      "police_number": "197",
+      "ambulance_number": "190",
+      "fire_department_number": "198"
+    },
+    {
+      "code": "TR",
+      "name": "Turkey", 
+      "emergency_number": null,
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "TM",
+      "name": "Turkmenistan", 
+      "emergency_number": null,
+      "police_number": "002",
+      "ambulance_number": "003",
+      "fire_department_number": "001"
+    },
+    {
+      "code": "TC",
+      "name": "Turks and Caicos Islands", 
+      "emergency_number": null,
+      "police_number": "911",
+      "ambulance_number": "911",
+      "fire_department_number": "911"
+    },
+    {
+      "code": "TV",
+      "name": "Tuvalu", 
+      "emergency_number": "911",
+      "police_number": "911",
+      "ambulance_number": "999",
+      "fire_department_number": "000"
+    },
+    {
+      "code": "UG",
+      "name": "Uganda", 
+      "emergency_number": "112",
+      "police_number": "112",
+      "ambulance_number": "911",
+      "fire_department_number": "999"
+    },
+    {
+      "code": "UA",
+      "name": "Ukraine", 
+      "emergency_number": "112",
+      "police_number": "102",
+      "ambulance_number": "103",
+      "fire_department_number": "101"
+    },
+    {
+      "code": "AE",
+      "name": "United Arab Emirates", 
+      "emergency_number": "",
+      "police_number": "999",
+      "ambulance_number": "998",
+      "fire_department_number": "997"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom", 
+      "emergency_number": null,
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "US",
+      "name": "United States of America", 
+      "emergency_number": null,
+      "police_number": "911",
+      "ambulance_number": "911",
+      "fire_department_number": "911"
+    },
+    {
+      "code": "UY",
+      "name": "Uruguay", 
+      "emergency_number": null,
+      "police_number": "911",
+      "ambulance_number": "911",
+      "fire_department_number": "911"
+    },
+    {
+      "code": "UZ",
+      "name": "Uzbekistan", 
+      "emergency_number": "112",
+      "police_number": "102",
+      "ambulance_number": "101",
+      "fire_department_number": "103"
+    },
+    {
+      "code": "VU",
+      "name": "Vanuatu", 
+      "emergency_number": null,
+      "police_number": "111",
+      "ambulance_number": "112",
+      "fire_department_number": "113"
+    },
+    {
+      "code": "VA",
+      "name": "Vatican City / Holy See", 
+      "emergency_number": "112",
+      "police_number": "113",
+      "ambulance_number": "118",
+      "fire_department_number": "115"
+    },
+    {
+      "code": "VE",
+      "name": "Venezuela", 
+      "emergency_number": null,
+      "police_number": "911",
+      "ambulance_number": "911",
+      "fire_department_number": "911"
+    },
+    {
+      "code": "VN",
+      "name": "Vietnam", 
+      "emergency_number": "",
+      "police_number": "113",
+      "ambulance_number": "115",
+      "fire_department_number": "114"
+    },
+    {
+      "code": "VG",
+      "name": "Virgin Islands, British", 
+      "emergency_number": "",
+      "police_number": "911",
+      "ambulance_number": "911",
+      "fire_department_number": "911"
+    },
+    {
+      "code": "VI",
+      "name": "Virgin Islands, U.S.", 
+      "emergency_number": null,
+      "police_number": "911",
+      "ambulance_number": "911",
+      "fire_department_number": "911"
+    },
+    {
+      "code": "WF",
+      "name": "Wallis and Futuna", 
+      "emergency_number": "",
+      "police_number": "15",
+      "ambulance_number": "15",
+      "fire_department_number": "15"
+    },
+    {
+      "code": "EH",
+      "name": "Western Sahara", 
+      "emergency_number": null,
+      "police_number": "150",
+      "ambulance_number": "150",
+      "fire_department_number": "150"
+    },
+    {
+      "code": "YE",
+      "name": "Yemen", 
+      "emergency_number": null,
+      "police_number": "194",
+      "ambulance_number": "191",
+      "fire_department_number": "191"
+    },
+    {
+      "code": "ZM",
+      "name": "Zambia", 
+      "emergency_number": "112",
+      "police_number": "999",
+      "ambulance_number": "993",
+      "fire_department_number": "991"
+    },
+    {
+      "code": "ZW",
+      "name": "Zimbabwe", 
+      "emergency_number": "112",
+      "police_number": "995",
+      "ambulance_number": "994",
+      "fire_department_number": "993"
+    },
+    {
+      "code": "SH",
+      "name": "Tristan da Cunha", 
+      "emergency_number": null,
+      "police_number": "999",
+      "ambulance_number": "911",
+      "fire_department_number": "999"
+    },
+    {
+      "code": "BL",
+      "name": "Saint Barthélemy", 
+      "emergency_number": null,
+      "police_number": "17",
+      "ambulance_number": "17",
+      "fire_department_number": "18"
+    },
+    {
+      "code": "IO",
+      "name": "British Indian Ocean Territory", 
+      "emergency_number": "112",
+      "police_number": "112",
+      "ambulance_number": "112",
+      "fire_department_number": "112"
+    },
+    {
+      "code": "XK",
+      "name": "Kosovo", 
+      "emergency_number": null,
+      "police_number": "192",
+      "ambulance_number": "194",
+      "fire_department_number": "193"
+    },
+    {
+      "code": "TK",
+      "name": "Tokelau", 
+      "emergency_number": null,
+      "police_number": "(+690) 2116",
+      "ambulance_number": "(+690) 2112",
+      "fire_department_number": ""
+    }
+  ]
+}

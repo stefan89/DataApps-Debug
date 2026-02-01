@@ -1,0 +1,10 @@
+{
+  "android": {
+    "latest_build_number": 51,
+    "minimum_android_sdk_version": "26"
+  },
+  "ios": {
+    "latest_build_number": 51,
+    "minimum_ios_version": "15.6"
+  }
+}

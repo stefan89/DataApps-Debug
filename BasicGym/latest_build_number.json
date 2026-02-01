@@ -1,10 +1,12 @@
 {
   "android": {
     "latest_build_number": 51,
-    "minimum_android_sdk_version": "26"
+    "minimum_android_sdk_version": "26",
+    "required": false
   },
   "ios": {
     "latest_build_number": 51,
-    "minimum_ios_version": "15.6"
+    "minimum_ios_version": "15.6",
+    "required": false
   }
 }

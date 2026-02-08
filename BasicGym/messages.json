@@ -1,0 +1,32 @@
+[
+  {
+    "message_id": "MSG001",
+    "build_numbers": [1001, 1005],
+    "text": "System update completed successfully",
+    "priority": "Low"
+  },
+  {
+    "message_id": "MSG002",
+    "build_numbers": [2001, 2010],
+    "text": "Critical security patch applied",
+    "priority": "High"
+  },
+  {
+    "message_id": "MSG003",
+    "build_numbers": [3001, 3008],
+    "text": "Performance optimization implemented",
+    "priority": "Medium"
+  },
+  {
+    "message_id": "MSG004",
+    "build_numbers": [4001, 4015],
+    "text": "New feature deployment",
+    "priority": "Medium"
+  },
+  {
+    "message_id": "MSG005",
+    "build_numbers": [5001, 5003],
+    "text": "Database maintenance required",
+    "priority": "High"
+  }
+]

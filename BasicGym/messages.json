@@ -1,32 +1,37 @@
 [
   {
     "message_id": "MSG001",
-    "build_numbers": [1001, 1005],
-    "text": "System update completed successfully",
+    "build_numbers": [],
+    "title": "System update completed successfully",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mi sagittis platea pulvinar vitae nascetur interdum congue montes fermentum. Etiam accumsan curae netus accumsan rhoncus venenatis himenaeos purus urna.",
     "priority": "Low"
   },
   {
     "message_id": "MSG002",
-    "build_numbers": [2001, 2010],
-    "text": "Critical security patch applied",
+    "build_numbers": [49, 50],
+    "title": "Critical security patch applied",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mi sagittis platea pulvinar vitae nascetur interdum congue montes fermentum. Etiam accumsan curae netus accumsan rhoncus venenatis himenaeos purus urna.",
     "priority": "High"
   },
   {
     "message_id": "MSG003",
-    "build_numbers": [3001, 3008],
-    "text": "Performance optimization implemented",
+    "build_numbers": [49, 50],
+    "title": "Performance optimization implemented",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mi sagittis platea pulvinar vitae nascetur interdum congue montes fermentum. Etiam accumsan curae netus accumsan rhoncus venenatis himenaeos purus urna.",
     "priority": "Medium"
   },
   {
     "message_id": "MSG004",
-    "build_numbers": [4001, 4015],
-    "text": "New feature deployment",
+    "build_numbers": [47, 48],
+    "title": "New feature deployment",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mi sagittis platea pulvinar vitae nascetur interdum congue montes fermentum. Etiam accumsan curae netus accumsan rhoncus venenatis himenaeos purus urna.",
     "priority": "Medium"
   },
   {
     "message_id": "MSG005",
-    "build_numbers": [5001, 5003],
-    "text": "Database maintenance required",
+    "build_numbers": [],
+    "title": "Database maintenance required",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mi sagittis platea pulvinar vitae nascetur interdum congue montes fermentum. Etiam accumsan curae netus accumsan rhoncus venenatis himenaeos purus urna.",
     "priority": "High"
   }
 ]

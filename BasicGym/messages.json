@@ -8,7 +8,7 @@
   },
   {
     "message_id": "MSG002",
-    "build_numbers": [49, 50],
+    "build_numbers": [48, 49],
     "title": "Critical security patch applied",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mi sagittis platea pulvinar vitae nascetur interdum congue montes fermentum. Etiam accumsan curae netus accumsan rhoncus venenatis himenaeos purus urna.",
     "priority": "High"

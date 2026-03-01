@@ -14,6 +14,13 @@
     "priority": "High"
   },
   {
+    "message_id": "MSG003",
+    "build_numbers": [49, 50],
+    "title": "Performance optimization implemented",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mi sagittis platea pulvinar vitae nascetur interdum congue montes fermentum. Etiam accumsan curae netus accumsan rhoncus venenatis himenaeos purus urna.",
+    "priority": "Medium"
+  },
+  {
     "message_id": "MSG004",
     "build_numbers": [47, 48],
     "title": "New feature deployment",

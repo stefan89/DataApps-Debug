@@ -1,5 +1,9 @@
 [
   {
+    "version": "1.6.0",
+    "text": "• Ability to export data as a CSV file"
+  },
+  {
     "version": "1.5.0",
     "text": "• Dark mode (can be enabled/disabled in settings)\n• Workout chart (can be found in workout overview)\n• User interface improvements\n• Bug fixes and improvements"
   },

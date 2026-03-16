@@ -37,8 +37,8 @@
   {
     "message_id": "MSG006",
     "build_numbers": [51, 52, 53],
-    "title": "Known Issue Update – Decimal Input Fix Underway",
-    "description": "The issue where decimal input was not possible has been identified. A fix is currently being developed and an app update will be released shortly. Thank you for your patience as improvements are made.",
+    "title": "Known Issue – Decimal Input",
+    "description": "The issue where decimal input was not possible has been identified. A fix is currently being developed and an app update will be released soon. Apologies for the inconvenience and thank you for your patience.",
     "priority": "Medium"
   }
 ]

@@ -1,5 +1,9 @@
 [
   {
+    "version": "1.6.1",
+    "text": "• Fixed issue where decimal input was not possible"
+  },
+  {
     "version": "1.6.0",
     "text": "• Ability to export data as a CSV file"
   },

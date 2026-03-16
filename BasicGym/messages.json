@@ -33,5 +33,12 @@
     "title": "Database maintenance required",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mi sagittis platea pulvinar vitae nascetur interdum congue montes fermentum. Etiam accumsan curae netus accumsan rhoncus venenatis himenaeos purus urna.",
     "priority": "High"
+  },
+  {
+    "message_id": "MSG006",
+    "build_numbers": [51, 52, 53],
+    "title": "Known Issue Update – Decimal Input Fix Underway",
+    "description": "The issue where decimal input was not possible has been identified. A fix is currently being developed and an app update will be released shortly. Thank you for your patience as improvements are made.",
+    "priority": "Medium"
   }
 ]

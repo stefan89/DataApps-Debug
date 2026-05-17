@@ -1,5 +1,9 @@
 [
   {
+    "version": "1.6.2",
+    "text": "• Fixed workout history not sorting by date correctly\n• Fixed cursor jumping while typing in edit screens\n• Fixed date display inconsistencies\n• Minor bug fixes and improvements"
+  },
+  {
     "version": "1.6.1",
     "text": "• Fixed issue where decimal input was not possible"
   },

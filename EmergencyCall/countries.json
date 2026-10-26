@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "countries": [
     {
       "code": "AF",
@@ -29,7 +29,7 @@
       "code": "DZ",
       "name": "Algeria",
       "emergency_number": "",
-      "police_number": "17",
+      "police_number": "1548",
       "ambulance_number": "14",
       "fire_department_number": "14"
     },
@@ -106,7 +106,7 @@
       "fire_department_number": "911"
     },
     {
-      "code": "SH-AC",
+      "code": "AC",
       "name": "Ascension Island", 
       "emergency_number": null,
       "police_number": "999",
@@ -125,7 +125,7 @@
       "code": "AT",
       "name": "Austria", 
       "emergency_number": "112",
-      "police_number": "113",
+      "police_number": "133",
       "ambulance_number": "144",
       "fire_department_number": "122"
     },
@@ -526,8 +526,8 @@
       "name": "Egypt", 
       "emergency_number": "",
       "police_number": "112",
-      "ambulance_number": "112",
-      "fire_department_number": "112"
+      "ambulance_number": "123",
+      "fire_department_number": "180"
     },
     {
       "code": "SV",
@@ -773,7 +773,7 @@
       "code": "HN",
       "name": "Honduras", 
       "emergency_number": null,
-      "police_number": "199",
+      "police_number": "911",
       "ambulance_number": "195",
       "fire_department_number": "198"
     },
@@ -917,9 +917,9 @@
       "code": "KI",
       "name": "Kiribati",
       "emergency_number": "999",
-      "police_number": "992",
-      "ambulance_number": "994",
-      "fire_department_number": "993"
+      "police_number": "999",
+      "ambulance_number": "999",
+      "fire_department_number": "999"
     },
     {
       "code": "KW",
@@ -1277,8 +1277,8 @@
       "code": "KP",
       "name": "North Korea", 
       "emergency_number": null,
-      "police_number": "112",
-      "ambulance_number": "112",
+      "police_number": "",
+      "ambulance_number": "",
       "fire_department_number": "110"
     },
     {
@@ -1442,7 +1442,7 @@
       "fire_department_number": "112"
     },
     {
-      "code": "SH-HL",
+      "code": "SH",
       "name": "Saint Helena", 
       "emergency_number": "",
       "police_number": "999",
@@ -1469,9 +1469,9 @@
       "code": "MF",
       "name": "Saint Martin", 
       "emergency_number": "",
-      "police_number": "911",
-      "ambulance_number": "912",
-      "fire_department_number": "919"
+      "police_number": "17",
+      "ambulance_number": "15",
+      "fire_department_number": "18"
     },
     {
       "code": "PM",
@@ -1555,11 +1555,19 @@
     },
     {
       "code": "SG",
-      "name": "Singapore", 
+      "name": "Singapore",
       "emergency_number": "112",
       "police_number": "999",
       "ambulance_number": "995",
       "fire_department_number": "995"
+    },
+    {
+      "code": "SX",
+      "name": "Sint Maarten",
+      "emergency_number": null,
+      "police_number": "911",
+      "ambulance_number": "912",
+      "fire_department_number": "919"
     },
     {
       "code": "SK",
@@ -1639,7 +1647,7 @@
       "emergency_number": null,
       "police_number": "119",
       "ambulance_number": "110",
-      "fire_department_number": "113"
+      "fire_department_number": "110"
     },
     {
       "code": "SD",
@@ -1830,8 +1838,8 @@
       "name": "Uzbekistan", 
       "emergency_number": "112",
       "police_number": "102",
-      "ambulance_number": "101",
-      "fire_department_number": "103"
+      "ambulance_number": "103",
+      "fire_department_number": "101"
     },
     {
       "code": "VU",
@@ -1910,8 +1918,8 @@
       "name": "Zambia", 
       "emergency_number": "112",
       "police_number": "999",
-      "ambulance_number": "993",
-      "fire_department_number": "991"
+      "ambulance_number": "992",
+      "fire_department_number": "993"
     },
     {
       "code": "ZW",
@@ -1922,7 +1930,7 @@
       "fire_department_number": "993"
     },
     {
-      "code": "SH",
+      "code": "TA",
       "name": "Tristan da Cunha", 
       "emergency_number": null,
       "police_number": "999",

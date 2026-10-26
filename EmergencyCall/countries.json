@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "countries": [
     {
       "code": "AF",
@@ -244,10 +244,10 @@
     {
       "code": "BW",
       "name": "Botswana", 
-      "emergency_number": null,
-      "police_number": "112",
-      "ambulance_number": "112",
-      "fire_department_number": "112"
+      "emergency_number": "112",
+      "police_number": "999",
+      "ambulance_number": "997",
+      "fire_department_number": "998"
     },
     {
       "code": "BR",
@@ -781,9 +781,9 @@
       "code": "HK",
       "name": "Hong Kong", 
       "emergency_number": "999",
-      "police_number": "112",
-      "ambulance_number": "112",
-      "fire_department_number": "112"
+      "police_number": "999",
+      "ambulance_number": "999",
+      "fire_department_number": "999"
     },
     {
       "code": "HU",
@@ -1012,10 +1012,10 @@
     {
       "code": "MO",
       "name": "Macao", 
-      "emergency_number": null,
-      "police_number": "112",
-      "ambulance_number": "112",
-      "fire_department_number": "112"
+      "emergency_number": "999",
+      "police_number": "999",
+      "ambulance_number": "999",
+      "fire_department_number": "999"
     },
     {
       "code": "MG",
@@ -1188,10 +1188,10 @@
     {
       "code": "NA",
       "name": "Namibia", 
-      "emergency_number": "10111",
+      "emergency_number": "112",
       "police_number": "10111",
-      "ambulance_number": "10177",
-      "fire_department_number": "998"
+      "ambulance_number": "112",
+      "fire_department_number": "112"
     },
     {
       "code": "NR",
@@ -1260,10 +1260,10 @@
     {
       "code": "NU",
       "name": "Niue", 
-      "emergency_number": null,
-      "police_number": "(+683) 4333",
-      "ambulance_number": "(+683) 4202",
-      "fire_department_number": "(+683) 4133"
+      "emergency_number": "999",
+      "police_number": "999",
+      "ambulance_number": "999",
+      "fire_department_number": "999"
     },
     {
       "code": "NF",
@@ -1318,7 +1318,7 @@
       "name": "Pakistan", 
       "emergency_number": "112",
       "police_number": "15",
-      "ambulance_number": "115",
+      "ambulance_number": "1122",
       "fire_department_number": "16"
     },
     {
@@ -1964,10 +1964,10 @@
     {
       "code": "TK",
       "name": "Tokelau", 
-      "emergency_number": null,
-      "police_number": "(+690) 2116",
-      "ambulance_number": "(+690) 2112",
-      "fire_department_number": ""
+      "emergency_number": "999",
+      "police_number": "999",
+      "ambulance_number": "999",
+      "fire_department_number": "999"
     }
   ]
 }

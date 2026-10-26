@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "countries": [
     {
       "code": "AF",
@@ -726,7 +726,7 @@
       "name": "Guatemala", 
       "emergency_number": "",
       "police_number": "110",
-      "ambulance_number": "128",
+      "ambulance_number": "122",
       "fire_department_number": "122"
     },
     {
@@ -1189,7 +1189,7 @@
       "code": "NA",
       "name": "Namibia", 
       "emergency_number": "10111",
-      "police_number": "112",
+      "police_number": "10111",
       "ambulance_number": "10177",
       "fire_department_number": "998"
     },

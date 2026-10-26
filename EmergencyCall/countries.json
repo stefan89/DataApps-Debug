@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "countries": [
     {
       "code": "AF",
@@ -27,9 +27,9 @@
     },
     {
       "code": "DZ",
-      "name": "Algeria", 
+      "name": "Algeria",
       "emergency_number": "",
-      "police_number": "1548",
+      "police_number": "17",
       "ambulance_number": "14",
       "fire_department_number": "14"
     },
@@ -139,11 +139,11 @@
     },
     {
       "code": "BS",
-      "name": "The Bahamas", 
+      "name": "The Bahamas",
       "emergency_number": "911",
-      "police_number": "112",
-      "ambulance_number": "112",
-      "fire_department_number": "112"
+      "police_number": "911",
+      "ambulance_number": "911",
+      "fire_department_number": "911"
     },
     {
       "code": "BH",
@@ -642,7 +642,7 @@
       "fire_department_number": "18"
     },
     {
-      "code": "GA",
+      "code": "GM",
       "name": "Gambia", 
       "emergency_number": "",
       "police_number": "117",
@@ -915,11 +915,11 @@
     },
     {
       "code": "KI",
-      "name": "Kiribati", 
+      "name": "Kiribati",
       "emergency_number": "999",
-      "police_number": "192",
-      "ambulance_number": "194",
-      "fire_department_number": "193"
+      "police_number": "992",
+      "ambulance_number": "994",
+      "fire_department_number": "993"
     },
     {
       "code": "KW",
@@ -1186,7 +1186,7 @@
       "fire_department_number": "191"
     },
     {
-      "code": "MM",
+      "code": "NA",
       "name": "Namibia", 
       "emergency_number": "10111",
       "police_number": "112",

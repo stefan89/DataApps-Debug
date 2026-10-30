@@ -1,5 +1,9 @@
 [
   {
+    "version": "1.7.0",
+    "text": "• Take over the sets of your last workout to start a new workout in one tap\n• Add workout items directly from the workout details page\n• Swipe to delete workout items in older workouts\n• Restore your data from automatic backups: 25 timestamped restore points\n• Muscle groups now load instantly from cache\n• Minor improvements and bug fixes"
+  },
+  {
     "version": "1.6.3",
     "text": "• Fixed database migration bug\n• Fixed database import bug"
   },

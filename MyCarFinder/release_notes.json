@@ -1,5 +1,9 @@
 [
   {
+    "version": "1.3.0",
+    "text": "• Add a photo of your parked spot, with floor, section and spot number\n• Dark mode: system, light or dark theme, the map follows your theme\n• Photos are automatically compressed to save storage\n• Clear feedback while processing a photo and helpful guidance when photo access is denied\n• Restore your data from automatic backups: 25 timestamped restore points\n• Minor improvements and bug fixes"
+  },
+  {
     "version": "1.2.0",
     "text": "• ability to add comment to location\n• improvements and bug fixes"
   },
